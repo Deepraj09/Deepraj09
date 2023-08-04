@@ -21,6 +21,11 @@
 </p>
 
 
+<h1 align="left">Badges: </h1>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/deeprajsonawane7.png" alt="TryHackMe">
+
+
 <h1 align="left"> Languages and Tools</h1>
 
 
@@ -41,4 +46,7 @@
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> 
 <img align="left" alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> 
 <img align="left" alt="Winddows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<br\>
+
+
 
